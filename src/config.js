@@ -1,4 +1,4 @@
 export default {
     // Socket.io server URL
-    serverURL: `http://localhost:4433`
+    serverURL: `http://192.168.0.104:4433`
 }
